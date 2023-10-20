@@ -1,4 +1,3 @@
-![image](https://github.com/anthonysknapp/Configuring-DNS-/assets/148372256/3956af6c-d39e-463d-af4d-3123cdb28b57)<h1> Configuring DNS</h1>
 
 <h2>Objective</h2>
 Understand how to work with a Windows DNS Server 
@@ -19,7 +18,7 @@ Configure DNS as a primary DNS server and add records
 -   <b>Windows Server 2022</b>
 -   <b>Windows 10</b> (Client)
      
-<h2>Program walk-through:</h2>
+<h2> Project walk-through:</h2>
 
 <p align="left">
 Lab Task 1: Configure DNS: add and resolve A and CNAME records. <br/>   
